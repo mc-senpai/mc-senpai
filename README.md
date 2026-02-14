@@ -12,14 +12,6 @@
 - Git & GitHub
 - Linux
 
-  # 👋 Hi, I'm mc-senpai
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-senpai&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 <!--
   ## 📊 GitHub Stats
 
@@ -44,7 +36,7 @@
 - 🔹 Project 2 – Short description
 
 ## 📫 Contact
-- Email: ifoumiguel@email.com
+- Email: miguel.ifou@facscience-uy1.com
 
 
 <!--
