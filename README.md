@@ -5,11 +5,6 @@
 - 💻 Passionate about Web & Linux
 - 🌍 Based in Cameroon
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-senpai&layout=compact&theme=tokyonight" />
-</p>
-
 
 ## 🛠️ Tech Stack
 - HTML / CSS / JavaScript
@@ -17,9 +12,31 @@
 - Git & GitHub
 - Linux
 
+  # 👋 Hi, I'm mc-senpai
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-senpai&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+<!--
   ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight)
+
+# Test
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mc-senpai&layout=compact&theme=tokyonight)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-senpai&layout=compact&theme=tokyonight" />
+</p>
+-->
 
 
 ## 📂 Featured Projects
