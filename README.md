@@ -17,6 +17,11 @@
 - Git & GitHub
 - Linux
 
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-senpai&show_icons=true&theme=tokyonight)
+
+
 ## 📂 Featured Projects
 - 🔹 Project 1 – Short description
 - 🔹 Project 2 – Short description
