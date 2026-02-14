@@ -1,4 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mc senpai
+
+## 🚀 About Me
+- 🎓 Computer Science student
+- 💻 Passionate about Web & Linux
+- 🌍 Based in Cameroon
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+
+## 🛠️ Tech Stack
+- HTML / CSS / JavaScript
+- Python
+- Git & GitHub
+- Linux
+
+## 📂 Featured Projects
+- 🔹 Project 1 – Short description
+- 🔹 Project 2 – Short description
+
+## 📫 Contact
+- Email: ifoumiguel@email.com
+
 
 <!--
 **mc-senpai/mc-senpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
